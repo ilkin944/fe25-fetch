@@ -1,0 +1,23 @@
+{
+  "istifadeciler": [
+    {
+      "ad": "Esmer",
+      "soyad": "Nagizade",
+      "telefon": "2435678",
+      "email": "45678",
+      "id": 1
+    }
+  ],
+  "city": [
+    {
+      "id": 1,
+      "name": "Istanbul",
+      "country_code": "TR"
+    },
+    {
+      "id": 2,
+      "name": "Baku",
+      "country_code": "AZ"
+    }
+  ]
+}
